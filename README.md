@@ -1,6 +1,6 @@
 # SangHyeon Park
 
-Hello, My name is Sanghyeon Park from Republic of Korea 🇰🇷.
+Hello, My name is Sanghyeon Park from Republic of Korea 🇰🇷
 
 I'm undergraduate student in Cyber Security at Ajou University, <br>
 Interested in AI Security, especially multimodal model.
