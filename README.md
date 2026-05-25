@@ -15,7 +15,9 @@ Interested in AI Security, especially multimodal model.
 - **VXShield**: Lightweight Voice Protection Against Deepfake Audio Generation(**JUST Opened right before!**)
 
 ## Core Experience
-- **KITRI Best of the Best 11th**  - Security Consulting Trainee
-- **Whois** (Cyber Security Student Club on Ajou Univ.) - President, Vice President, Secretary
+- **KITRI Best of the Best 11th**  
+  - Security Consulting Trainee
+- **Whois** (Cyber Security Student Club on Ajou Univ.) 
+  - President, Vice President, Secretary
 - **Undergraduated Student Researcher** (2023, 2026~)
 - **Republic of Korea Army**
