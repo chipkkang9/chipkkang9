@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/profile-signal-map.svg" alt="SangHyeon Park AI security research signal map" width="100%">
+  <img src="./assets/profile-signal-map.png" alt="SangHyeon Park AI security research signal map" width="100%">
 
   <h1>SangHyeon Park</h1>
   <p>
