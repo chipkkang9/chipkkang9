@@ -34,8 +34,8 @@ My work sits at the intersection of **AI safety**, **cyber security**, and **mod
 
 | Project | Status | Focus |
 | --- | --- | --- |
-| **VLM-CAST** | Private, coming soon | Conditional Activation Steering for safe responses in vision-language models |
-| **VXShield** | Opened recently | Lightweight voice protection against deepfake audio generation |
+| **VLM-CAST** | Private (manuscript in preparation) | Conditional Activation Steering for safe responses in vision-language models |
+| **VXShield** | Private (patent pending) | Lightweight voice protection against deepfake audio generation |
 
 ## Background
 
