@@ -75,5 +75,3 @@ flowchart LR
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-chipkkang9-181717?style=flat-square&logo=github&logoColor=white">
   </a>
 </p>
-
-Notion: This page was written with CodeX.
